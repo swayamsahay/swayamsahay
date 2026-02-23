@@ -1,92 +1,88 @@
-# Hi, I'm Swayam Sahay 👋  
+# Hi, I'm Swayam Sahay 👋
 
-### Software Developer | Backend & Systems Enthusiast | Founder - SpineX Technologies  
+### Software Developer | Backend & Full-Stack Engineering | Scalable Systems
 
-I am a Computer Science graduate focused on backend development, REST APIs, and scalable system design.  
-I build clean, efficient, and maintainable software solutions aligned with modern product development practices.
+Computer Science graduate with strong foundations in software development, backend engineering, and modern web technologies. I focus on building clean, maintainable, and performance-driven applications using structured development practices.
 
-I am also the founder of **SpineX Technologies**, where I work on developing modern web solutions and scalable digital platforms.
+Founder of **SpineX Technologies**, where I work on developing modern web platforms and scalable digital solutions.
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Technical Skills
 
-**Programming Languages:**  
-Java (Core), JavaScript, Python (Basic)
+### Programming Languages
+Java (Core), JavaScript, Python (Fundamentals)
 
-**Backend Development:**  
-REST APIs, Microservices Architecture (Conceptual), MVC Pattern, JSON Handling
+### Backend Development
+RESTful APIs, Modular Architecture, MVC Pattern, JSON Handling, Microservices (Conceptual)
 
-**Frontend Development:**  
-HTML5, CSS3, Bootstrap, React.js (Basic)
+### Frontend Development
+HTML5, CSS3, Bootstrap, React (Fundamentals)
 
-**Databases:**  
-MySQL, MongoDB, SQL, Query Optimization, Indexing
+### Databases
+MongoDB, MySQL, SQL, Query Optimization, Indexing, Database Design
 
-**Tools & DevOps:**  
+### Tools & Development Workflow
 Git, GitHub, Maven (Basic), Postman, CI/CD Concepts
 
-**Systems & Cloud (Learning):**  
-Linux, Docker, AWS
+### Systems & Cloud (Learning & Exploring)
+Linux, Docker, AWS Basics
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Key Projects
 
-### Buildora – Website Design & Development Platform  
+### Buildora — Website Development & Management Platform
 
-Buildora is a full-stack web application designed for dynamic website creation and management.
+A structured full-stack web application designed for dynamic website creation and content management.
 
-**Key Features:**
+**Highlights:**
 - RESTful API implementation  
-- Modular backend architecture  
-- MongoDB database integration  
-- Responsive UI design  
-- Structured database management  
-- Version control using Git  
+- Modular backend structure  
+- MongoDB integration  
+- Optimized database queries  
+- Responsive frontend design  
+- Version-controlled development using Git  
 
-**Tech Stack Used:**
-- Java  
-- MongoDB  
-- HTML5, CSS3, Bootstrap  
-- Git  
+Tech Stack:  
+Java | MongoDB | HTML5 | CSS3 | Bootstrap | Git
 
 ---
 
-### SpineX Technologies – Web Solutions & Digital Platform  
+### SpineX Technologies — Web Solutions Initiative
 
-SpineX Technologies is a growing digital initiative focused on delivering modern website solutions and scalable web platforms.
+A digital platform focused on delivering modern, scalable, and database-driven web solutions.
 
-**Focus Areas:**
-- Custom website development  
+Focus Areas:
+- Custom web application development  
 - Backend system architecture  
-- Database-driven applications  
+- Database-driven platforms  
 - Performance optimization  
 
 Website: https://spinextechnologies.netlify.app/
 
 ---
 
-## 📈 What I’m Currently Working On
+## 📈 Currently Improving
 
-- Strengthening Data Structures & Algorithms  
-- Building scalable backend applications  
-- Exploring Microservices architecture  
-- Learning Docker & Cloud deployment  
-- Improving system design fundamentals  
+- Data Structures & Algorithms  
+- Backend architecture design  
+- Microservices concepts  
+- Cloud deployment & containerization  
+- System design fundamentals  
 
 ---
 
-## 🎯 Career Objective
+## 🎯 Professional Objective
 
-To contribute as a Software Developer in a product-based organization where I can build scalable systems, solve real-world problems, and continuously grow in backend and cloud technologies.
+To contribute as a software developer in a growth-oriented organization where I can apply my technical skills, solve real-world problems, and continuously evolve in backend, full-stack, and cloud technologies.
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/swayamsahay  
-- Email: sahayswayam@gmail.com  
+LinkedIn: www.linkedin.com/in/swayamsahay  
+Email: sahayswayam@gmail.com  
 
 ---
 
