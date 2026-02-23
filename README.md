@@ -86,7 +86,6 @@ To contribute as a Software Developer in a product-based organization where I ca
 ## 📫 Connect With Me
 
 - LinkedIn: www.linkedin.com/in/swayamsahay  
-- Portfolio: https://spinextechnologies.netlify.app/  
 - Email: sahayswayam@gmail.com  
 
 ---
