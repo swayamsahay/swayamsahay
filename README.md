@@ -4,7 +4,7 @@
 
 Computer Science graduate with strong foundations in software development, backend engineering, and modern web technologies. I focus on building clean, maintainable, and performance-driven applications using structured development practices.
 
-Founder of **SpineX Technologies**, where I work on developing modern web platforms and scalable digital solutions.
+Founder of **Buildora**, where I work on developing modern web platforms and scalable digital solutions.
 
 ---
 
@@ -46,6 +46,8 @@ A structured full-stack web application designed for dynamic website creation an
 
 Tech Stack:  
 Java | MongoDB | HTML5 | CSS3 | Bootstrap | Git
+
+Website: https://buildora.up.railway.app/
 
 ---
 
